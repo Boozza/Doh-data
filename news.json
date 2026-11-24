@@ -1,1 +1,44 @@
-{"items": [{"date": "2026-11-22", "link": "https://www.invader-spotter.art/news.php", "text": "Bermuda: 3 more pieces identified (BDA_08, 17, 46) – 45 of 47 now on invader-spotter"}, {"date": "2026-11-21", "link": "https://www.invader-spotter.art/news.php", "text": "Bermuda: 3 more pieces identified (BDA_04, 06, 39) – 42 of 47 now on invader-spotter"}, {"date": "2026-11-20", "link": "https://www.invader-spotter.art/news.php", "text": "Bermuda: 4 more pieces identified (BDA_09, 10, 33, 34) – 39 of 47 now on invader-spotter"}, {"date": "2026-11-19", "link": "https://www.invader-spotter.art/news.php", "text": "Bermuda: 4 more pieces identified (BDA_01, 21, 22, 25) – 35 of 47 now on invader-spotter"}, {"date": "2026-11-18", "link": "https://www.artcurial.com/en/articles/iconoclasts-urban-art-auction-in-preparation", "text": "Artcurial 'Iconoclasts – 20 Years of Urban Art' auction in Paris (Invader among featured artists)"}, {"date": "2026-11-18", "link": "https://www.royalgazette.com/general/news/article/20261117/french-artist-invades-bermuda/", "text": "Bermuda invaded: 47 pieces (31 added to invader-spotter so far), incl. a Homer at Ice Queen, Paget"}, {"date": "2026-11-14", "link": "https://www.invader-spotter.art/news.php", "text": "Lapland invasion keeps growing on invader-spotter (89 pieces announced in October)"}, {"date": "2026-09-12", "link": "https://www.invader-spotter.art/news.php", "text": "New city: Stockholm (19 pieces added on invader-spotter)"}]}
+{
+  "items": [
+    {
+      "date": "2026-11-22",
+      "link": "https://www.invader-spotter.art/news.php",
+      "text": "Bermuda: 3 more pieces identified (BDA_08, 17, 46) – 45 of 47 now on invader-spotter"
+    },
+    {
+      "date": "2026-11-21",
+      "link": "https://www.invader-spotter.art/news.php",
+      "text": "Bermuda: 3 more pieces identified (BDA_04, 06, 39) – 42 of 47 now on invader-spotter"
+    },
+    {
+      "date": "2026-11-20",
+      "link": "https://www.invader-spotter.art/news.php",
+      "text": "Bermuda: 4 more pieces identified (BDA_09, 10, 33, 34) – 39 of 47 now on invader-spotter"
+    },
+    {
+      "date": "2026-11-19",
+      "link": "https://www.invader-spotter.art/news.php",
+      "text": "Bermuda: 4 more pieces identified (BDA_01, 21, 22, 25) – 35 of 47 now on invader-spotter"
+    },
+    {
+      "date": "2026-11-18",
+      "link": "https://www.artcurial.com/en/articles/iconoclasts-urban-art-auction-in-preparation",
+      "text": "Artcurial 'Iconoclasts – 20 Years of Urban Art' auction in Paris (Invader among featured artists)"
+    },
+    {
+      "date": "2026-11-18",
+      "link": "https://www.royalgazette.com/general/news/article/20261117/french-artist-invades-bermuda/",
+      "text": "Bermuda invaded: 47 pieces (31 added to invader-spotter so far), incl. a Homer at Ice Queen, Paget"
+    },
+    {
+      "date": "2026-11-14",
+      "link": "https://www.invader-spotter.art/news.php",
+      "text": "Lapland invasion keeps growing on invader-spotter (89 pieces announced in October)"
+    },
+    {
+      "date": "2026-09-12",
+      "link": "https://www.invader-spotter.art/news.php",
+      "text": "New city: Stockholm (19 pieces added on invader-spotter)"
+    }
+  ]
+}
