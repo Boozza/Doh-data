@@ -1,0 +1,17 @@
+# Keeps the hunt planner's Supabase project awake (the free plan pauses after 7 days without requests).
+# Uses only the public publishable key (the same one the public web app ships with); it reads nothing private (RLS).
+name: Supabase keep-alive
+on:
+  schedule:
+    - cron: '37 3 * * *'
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Supabase REST
+        run: |
+          code=$(curl -s -o /dev/null -w "%{http_code}" "https://rngabsumhzvckouwcufd.supabase.co/rest/v1/kv?select=key&limit=1" \
+            -H "apikey: sb_publishable_DbpG5P-HmkvJeznh-OGOdw_TeSqkoFr" -H "Authorization: Bearer sb_publishable_DbpG5P-HmkvJeznh-OGOdw_TeSqkoFr")
+          echo "HTTP $code"
+          test "$code" -lt 500
